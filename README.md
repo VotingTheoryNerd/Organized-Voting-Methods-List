@@ -1,6 +1,6 @@
 ## Organized Voting Methods List
 
-<details><summary>CLICK ME</summary>
+<details><summary>Single-Winner Methods</summary>
 <p>
 
 #### yes, even hidden code blocks!
