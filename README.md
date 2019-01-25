@@ -1,9 +1,18 @@
 # Organized-Voting-Methods-List
 A comprehensive collapsible list of voting methods in an organized fashion.
 
-## Single-Winner Methods
-<details>
-  <summary>Single-Choice Methods</summary>
-      ###<details><summary>First Past The Post Methods</summary>
-  First Past The Post<details>
-</details>
+<button class="accordion">Single-Winner Methods</button>
+<div>
+  asdf
+</div>
+ 
+ 
+ 
+ 
+ var accordions = document.querySelectorAll("button.accordion"); 
+for (var i = 0; i < accordions.length; i++) { 
+accordions[i].onclick = function(){ 
+this.classList.toggle("active"); 
+this.nextElementSibling.classList.toggle("show"); 
+} 
+}
