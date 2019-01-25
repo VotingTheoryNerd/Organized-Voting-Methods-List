@@ -5,5 +5,5 @@ A comprehensive collapsible list of voting methods in an organized fashion.
 <details>
   <summary>Single-Choice Methods</summary>
   
-  ### First Past The Post
+  #### First Past The Post
 </details>
