@@ -1,13 +1,9 @@
 # Organized-Voting-Methods-List
 A comprehensive collapsible list of voting methods in an organized fashion.
 
-# A collapsible section with markdown
+## Single-Winner Methods
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Single-Choice Methods</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  ### First Past The Post
 </details>
