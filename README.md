@@ -1,4 +1,4 @@
-## collapsible markdown?
+## Organized Voting Methods List
 
 <details><summary>CLICK ME</summary>
 <p>
