@@ -1,7 +1,6 @@
 ## Organized Voting Methods List
 
-Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3xacwwg_swRy2A
-
+Click to Expand!
 
 <details>
 	<summary>Single-Winner Methods</summary>
