@@ -4,11 +4,11 @@ Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 
 
 <details> <summary>Single-Winner Methods</summary>
-	<ul> <li> <summary>Single-Choice</summary></ul> </il>
-	<ul> <li> <summary>Ranked</summary></ul> </il> 
-	<ul> <li> <summary>Cardinal</summary></ul> </il> 
-	<ul> <li> <summary>Hybrid</summary></ul> </il>
-	<ul> <li> <summary>Candidates Trade</summary></ul> </il> 
+	<ul> <li> <details> <summary>Single-Choice</summary></ul> </il> </details>
+	<ul> <li> <details> <summary>Ranked</summary></ul> </il> </details>
+	<ul> <li> <details> <summary>Cardinal</summary></ul> </il> </details>
+	<ul> <li> <details> <summary>Hybrid</summary></ul> </il> </details>
+	<ul> <li> <details> <summary>Candidates Trade</summary></ul> </il> </details>
 </details>
 <details> <summary>Multi-Winner Methods</summary>
 	
