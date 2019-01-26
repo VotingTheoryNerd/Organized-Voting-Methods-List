@@ -22,6 +22,8 @@ Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 	</ul>
 	</details>
 	</li>
+</ul>
+</details>
 <ul>
 	<li>
 	<details>
@@ -29,5 +31,3 @@ Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 		</ul>
 	</details>
 	</li>
-</ul>
-</details>
