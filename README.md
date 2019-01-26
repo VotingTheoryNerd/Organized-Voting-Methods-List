@@ -1,6 +1,6 @@
 ## Organized Voting Methods List
 
-Use This List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3xacwwg_swRy2A
+Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3xacwwg_swRy2A
 
 <details>
 <summary>Single-Winner Methods</summary>
@@ -14,7 +14,7 @@ Use This List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 		<summary>First-Past-The-Post</summary>
 		<ul>
 			<li>
-			First Past The Post
+			First Past The Post (Plurality)
 			</li>
 		</ul>
 		</details>
