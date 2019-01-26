@@ -23,11 +23,12 @@ Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 	</details>
 	</li>
 </ul>
-</details>
-<ul>
+	<ul>
 	<li>
 	<details>
 	<summary>Ranked</summary>
 		</ul>
 	</details>
 	</li>
+</details>
+
