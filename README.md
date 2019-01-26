@@ -8,6 +8,8 @@ Hyperlinks for convenience (Coming Soon)!
 
 Feel free to add/suggest voting methods that are missing! And Enjoy!
 
+<span style="font-size:8em;">
+
 <details>
 	<summary>Single-Winner Methods</summary>
 	<ul>
@@ -179,6 +181,6 @@ Feel free to add/suggest voting methods that are missing! And Enjoy!
 				
 				
 				
-				
+</span>				
 				
 			
