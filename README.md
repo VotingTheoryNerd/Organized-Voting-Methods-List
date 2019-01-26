@@ -5,11 +5,11 @@ Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 
 <details>
 <summary>Single-Winner Methods</summary> 
-	<li> <summary>Single Choice</summary> </li>
-	<li> <summary>Ranked Choice</summary> </li> 
-	<li> <summary>Cardinal</summary> </li>
-	<li> <summary>Hybrid</summary> </li> 
-	<li> <summary>Candidates Trade</summary> </li>
+	<li> <ul> <summary>Single Choice</summary> </ul> </li>
+	<li> <ul> <summary>Ranked Choice</summary> </ul> </li> 
+	<li> <ul> <summary>Cardinal</summary> </ul> </li>
+	<li> <ul> <summary>Hybrid</summary> </ul> </li> 
+	<li> <ul> <summary>Candidates Trade</summary> </ul> </li>
 </details>
 </details>
 
