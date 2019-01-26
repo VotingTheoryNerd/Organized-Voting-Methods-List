@@ -17,15 +17,6 @@ Use This List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 			First Past The Post
 			</li>
 		</ul>
-                        <ul>
-		<li>
-		<details>
-		<summary>Rounds</summary>
-                        <ul>
-			<li>
-			Top-Two
-			</li>
-		</ul>
 		</details>
 		</li>
 	</ul>
