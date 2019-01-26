@@ -2,7 +2,7 @@
 
 ## This should serve as a quick and easy reference for all voting methods.
 
-## Some voting methods may appear multiple times within the list as they fall under multiple categories.
+## Some voting methods may appear multiple times as they fall under multiple categories.
 
 In the future, I plan on adding hyperlinks for convenience.
 
