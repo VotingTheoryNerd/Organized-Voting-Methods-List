@@ -167,6 +167,6 @@ Feel free to add/suggest voting methods that are missing! And Enjoy!
 				
 			
 				
-Multi-Winner Methods Coming Soon!			
+###### Multi-Winner Methods Coming Soon!			
 				
 			
