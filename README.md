@@ -97,7 +97,7 @@
 				<summary>Hybrid Methods</summary>
 					<ul>
 						<details>
-							<summaryCardinal+Ranked Hybrids</summary>
+							<summary>Cardinal+Ranked Hybrids</summary>
 								<ul>
 									<details>
 										<summary>Score+Ranked Hybrids</summary>
