@@ -2,9 +2,9 @@
 
 ## This should serve as a quick and easy reference for all voting methods.
 
-## Some voting methods may appear multiple times as they fall under multiple categories.
+## Some methods may appear multiple times as they fall under multiple categories.
 
-In the future, I plan on adding hyperlinks for convenience.
+Hyperlinks for convenience (Coming Soon)!
 
 Feel free to add/suggest voting methods that are missing! And Enjoy!
 
