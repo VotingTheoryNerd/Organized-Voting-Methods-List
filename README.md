@@ -1,4 +1,4 @@
-## Organized Voting Methods List
+# Organized Voting Methods List
 
 Click to Expand!
 
