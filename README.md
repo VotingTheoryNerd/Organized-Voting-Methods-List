@@ -1,6 +1,6 @@
 # Organized Voting Methods List
 
-### Click to Expand!
+###### Click to Expand
 
 <details>
 	<summary>Single-Winner Methods</summary>
