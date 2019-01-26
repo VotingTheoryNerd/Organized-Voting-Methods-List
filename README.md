@@ -22,5 +22,12 @@ Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 	</ul>
 	</details>
 	</li>
+<ul>
+	<li>
+	<details>
+	<summary>Ranked</summary>
+		</ul>
+	</details>
+	</li>
 </ul>
 </details>
