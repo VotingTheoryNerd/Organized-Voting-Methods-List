@@ -1,4 +1,4 @@
-# Organized Voting Methods List
+# Voting Methods - A Comprehensive Organized List
 
 <details>
 	<summary>Single-Winner Methods</summary>
