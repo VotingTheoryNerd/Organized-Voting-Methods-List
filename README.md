@@ -6,6 +6,7 @@ Use This List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 <summary>Single-Winner Methods</summary>
 <ul> <li> <details> <summary>Single-Choice</summary>
         <ul> <li> <details> <summary>Rounds</summary>
+               <summary>First Past The Post</summary>
                <ul> <li> <details> <summary>Single-Choice</summary>
                     <ul><li> c                        
         </li></ul></details>
