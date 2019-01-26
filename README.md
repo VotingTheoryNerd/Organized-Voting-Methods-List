@@ -1,4 +1,4 @@
-# Voting Methods - An Organized and Comprehensive List
+# Voting Methods - A Taxonomic and Comprehensive List
 
 ## This should serve as a quick and easy reference for all voting methods.
 
