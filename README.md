@@ -2,13 +2,11 @@
 
 ## This should serve as a quick and easy reference for browsing different types of voting methods.
 
-### Some voting methods may appear multiple times within the list as they fall under multiple categories.
+## Some voting methods may appear multiple times within the list as they fall under multiple categories.
 
 In the future, I plan on adding hyperlinks for convenience.
 
-Feel free to add/suggest voting methods that are missing!
-
-Enjoy!
+Feel free to add/suggest voting methods that are missing! And Enjoy!
 
 <details>
 	<summary>Single-Winner Methods</summary>
