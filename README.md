@@ -11,6 +11,6 @@ Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 	<ul> <li> <summary>Hybrid</summary> </li> </ul> 
 	<ul> <li> <summary>Candidates Trade</summary> </li> </ul>
 </details>
-
+</details>
 
 <details> <summary>Multi-Winner Methods</summary> </details>
