@@ -7,11 +7,15 @@ Use This List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 <ul>
     <li>
     <details>
-    <summary>Double-Winner Methods</summary>
+    <summary>Single-Choice</summary>
     <ul>
         <li>
         <details>
-        <summary>Double-Winner Methods</summary>
+        <summary>Rounds</summary>
+               <ul>
+                    <li>
+                     <details>
+                     <summary>Single-Choice</summary>
         <ul>
             <li>
             c
