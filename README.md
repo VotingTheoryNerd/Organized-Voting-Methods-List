@@ -6,7 +6,7 @@
 
 In the future, I plan on adding hyperlinks for convenience.
 
-Feel free to add voting methods that are missing!
+Feel free to add/suggest voting methods that are missing!
 
 Enjoy!
 
