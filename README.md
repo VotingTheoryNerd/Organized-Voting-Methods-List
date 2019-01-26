@@ -4,8 +4,7 @@ Use This List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 
 <details>
 <summary>Single-Winner Methods</summary>
-<ul>
-    <li>
+<ul> <li>
     <details>
     <summary>Single-Choice</summary>
     <ul>
