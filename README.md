@@ -4,9 +4,9 @@
 
 ## Some methods may appear multiple times as they fall under multiple categories.
 
-Hyperlinks for convenience (Coming Soon)!
+###### Hyperlinks coming soon!
 
-Feel free to add/suggest voting methods that are missing! And Enjoy!
+###### Feel free to add/suggest voting methods that are missing! And Enjoy!
 
 <details>
 	<summary>Single-Winner Methods</summary>
