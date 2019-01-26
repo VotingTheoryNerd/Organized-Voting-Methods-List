@@ -7,11 +7,15 @@ Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 <ul>
 	<li>
 	<details>
+	
 	<summary>Single-Choice</summary>
+	
 	<ul>
 		<li>
 		<details>
+		
 		<summary>First-Past-The-Post</summary>
+		
 		<ul>
 			<li>
 			First Past The Post (Plurality)
@@ -26,14 +30,18 @@ Here's a List: https://drive.google.com/open?id=1WgpNkryBY9DUUxAzRV8FQY28niGEr3x
 	<ul>
 	<li>
 	<details>
+	
 	<summary>Ranked</summary>
-		</ul>
+	
+	</ul>
 	</details>
 	</li>
 	<ul>
 	<li>
 	<details>
+	
 	<summary>Cardinal</summary>
+		
 		</ul>
 	</details>
 	</li>
