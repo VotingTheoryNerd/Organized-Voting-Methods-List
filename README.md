@@ -169,4 +169,4 @@
 				
 ##### Multi-Winner Methods Coming Soon!			
 				
-#### Don't see a voting method? Add it [here](https://docs.google.com/document/d/1J7eP_d6nccCDZYVWdtitqpXbW2a0VU9bluju91NCLt8/edit).
+##### Don't see a voting method? Add it [here](https://docs.google.com/document/d/1J7eP_d6nccCDZYVWdtitqpXbW2a0VU9bluju91NCLt8/edit).
