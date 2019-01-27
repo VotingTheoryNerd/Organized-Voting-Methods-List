@@ -7,7 +7,7 @@
 ##### Hyperlinks coming soon!
 
 <details>
-	<summary>Single-Winner Methods</summary>
+	<summary>**Single-Winner Methods**</summary>
 	<ul>
 		<details>
 			<summary>Single Choice Methods</summary>
