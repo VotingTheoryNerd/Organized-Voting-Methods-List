@@ -9,7 +9,7 @@
 ##### Feel free to add/suggest your favorite voting methods that are missing! There are many that I haven't had time to add yet!
 
 <details>
-	<summary>### Single-Winner Methods</summary>
+	<summary>Single-Winner Methods</summary>
 	<ul>
 		<details>
 			<summary>Single Choice Methods</summary>
@@ -169,3 +169,4 @@
 				
 ##### Multi-Winner Methods Coming Soon!			
 				
+#### Don't see a voting method? Add it [here](https://docs.google.com/document/d/1J7eP_d6nccCDZYVWdtitqpXbW2a0VU9bluju91NCLt8/edit).
