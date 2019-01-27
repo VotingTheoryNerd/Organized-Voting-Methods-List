@@ -6,8 +6,6 @@
 
 ##### Hyperlinks coming soon!
 
-##### Feel free to add/suggest your favorite voting methods that are missing! There are many that I haven't had time to add yet!
-
 <details>
 	<summary>Single-Winner Methods</summary>
 	<ul>
