@@ -6,159 +6,182 @@
 
 ##### Hyperlinks coming soon!
 
-<details>
-	<summary>Single-Winner Methods</summary>
-	<ul>
-		<details>
-			<summary>Single Choice Methods</summary>
-				<ul>
-					<details>
-						<summary>First Past The Post</summary>
-						<ul>
-							<li>First Past The Post</li>
-							<li>Improved First Past The Post</li>
-						</ul>
-					</details>
-					<details>
-						<summary>Rounds</summary>
-							<ul>
-								<li>Top-Two</li>
-							</ul>
-					</details>
-					<li>Asset Voting</li>
-				</ul>
-		</details>
-		<details>
-			<summary>Ranked Methods</summary>
-				<ul>
-					<details>
-						<summary>Condorcet Methods</summary>
-							<ul>
-								<li> Ranked Pairs </li>
-								<li> Schulze </li>
-								<li> Tideman </li>
-								<li> Copeland </li>
-								<li> Minimax </li>
-								<li> Cardinal-Weighted Pairs </li>
-							</ul>
-					</details>
-					<details>
-						<summary>Runoff Methods</summary>
-							<ul>
-								<li>IRV</li>
-								<li>IRV-Check</li>
-								<li>Pairwise IRV</li>
-								<li>BTR-IRV</li>
-								<li>Coombs'</li>
-							</ul>
-					</details>
-					<li>Bucklin</li>
-				</ul>
-		</details>
-		<details>
-			<summary>Cardinal Methods</summary>
-				<ul>
-					<details>
-						<summary>Approval Methods</summary>
-							<ul>
-								<details>
-									<summary>Pure Approval Methods</summary>
-										<ul>
-											<li>Approval Voting</li>
-											<li>Consensus Voting</li>
-											<li>Utilitarian Voting</li>
-										</ul>
-								</details>
-								<li>Approval With Optional Conditional Voting</li>
-								<details>
-									<summary>Consecutive Runoff Approval</summary>
-										<ul>
-											<li>Consecutive Runoff Approval</li>
-											<li>Maximum Approval Top-Two</li>
-									</ul>
-								</details>
-								<li>Disapproval Voting</li>
-								<li>Random-Approval</li>
-							</ul>
-					</details>
-					<details>
-						<summary>Range/Score Methods</summary>
-							<ul>
-								<li>Pure Score/Range</li>
-								<li>STAR</li>
-							</ul>
-					</details>
-					<details>
-						<summary>Graded Methods</summary>
-							<ul>
-								<li>3-2-1 Voting</li>
-								<li>Majority Judgement</li>
-								<li>Disapproval Voting</li>
-								<li>Majority Choice Approval</li>
-							</ul>
-					</details>
-				</ul>
-			</details>
-			<details>
-				<summary>Hybrid Methods</summary>
-					<ul>
-						<details>
-							<summary>Cardinal+Ranked Hybrids</summary>
-								<ul>
-									<details>
-										<summary>Score+Ranked Hybrids</summary>
-											<ul>
-												<details>
-													<summary>Condorcet+Score Hybrids</summary>
-														<ul>
-															<li>Score/DSV</li>
-															<li>Cardinal-Weighted Pairwise</li>
-														</ul>
-													<li>Definite Majority Choice</li>
-													<li>Marginal Ranked Approval Voting (MRAV)</li>
-												</details>
-											</ul>
-									</details>
-									<details>
-										<summary>Approval+Ranked Hybrids</summary>
-											<ul>
-												<details>
-													<summary>Approval+Condorcet Hybrids</summary>
-														<ul>
-															<li>Definite Majority Choice</li>
-															<li>Lull-Approval</li>
-															<details>
-																<summary>Pairwise Sorted Methods</summary>
-																	<ul>
-																		<li>Pairwise Sorted Approval</li>
-																		<li>Pairwise Sorted Borda</li>
-																		<li>Approval Sorted Margins</li>
-																	</ul>
-															</details>
-														</ul>
-												</details>
-											</ul>
-									</details>
-								</ul>
-						</details>
-						<details>
-							<summary>Score+Graded Hybrids</summary>
-								<ul>
-									<li>[Majority Acceptable Score](https://wiki.electorama.com/wiki/Majority_Acceptable_Score_voting)</li>
-								</ul>
-						</details>
-					</ul>
-			</details>
-			<details>
-				<summary>Candidates Trade Votes</summary>
-					<ul>
-						<li>Asset Voting</li>
-						<li>Optional Asset</li>
-						<li> Score Asset</li>
-					</ul>
-			</details>
-		</ul>
-	</details>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $('.close').slideUp().parent().children('span:first-child').css('text-decoration', 'underline');
+      $('#election-method-list span').click(function (e) {
+        $(this).parent().children('ul.open').removeClass('open').addClass('slideup').slideUp();
+        $(this).parent().children('ul.close').removeClass('close').addClass('slidedown').slideDown();
+        $('.slideup').removeClass('slideup').addClass('close').parent().children('span:first').css('text-decoration', 'underline');
+        $('.slidedown').removeClass('slidedown').addClass('open').parent().children('span:first').css('text-decoration', 'none');
+      });
+    });
+  </script>
+  <title>List of Election Methods</title>
+</head>
+
+<body>
+  <ul id="election-method-list">
+    <li><span>Single-Winner Methods</span>
+      <ul class="close">
+        <li><span>Single-Choice</span>
+          <ul class="close">
+            <li><span>First Past The Post</span>
+              <ul class="close">
+                <li><span>First Past the Post</span></li>
+                <li><span>Improved FPTP</span></li>
+              </ul>
+            </li>
+            <li><span>Rounds</span>
+              <ul class="close">
+                <li><span>Top-Two</span></li>
+              </ul>
+            </li>
+            <li><span>Asset Voting</span></li>
+          </ul>
+        </li>
+        <li><span>Ranked (Preferential)</span>
+          <ul class="close">
+            <li><span>Pairwise (Condorcet)</span>
+              <ul class="close">
+                <li><span>Ranked Pairs (Tideman)</span></li>
+                <li><span>Schulze</span></li>
+                <li><span>Copeland</span></li>
+                <li><span>Minimax</span></li>
+                <li><span>Cardinal Pairwise (Cardinal Weighted Pairwise)</span></li>
+                <li><span>Random Condorcet</span></li>
+              </ul>
+            </li>
+            <li><span>Runoff Methods</span>
+              <ul class="close">
+                <li><span>Bucklin</span></li>
+                <li><span>Coomb's</span></li>
+                <li><span>IRV</span>
+                  <ul class="close">
+                    <li><span>IRV</span></li>
+                    <li><span>Pairwise IRV</span></li>
+                    <li><span>IRV-Check</span></li>
+                    <li><span>BTR-IRV</span></li>
+                    <li><span>Candidate Withdrawal IRV (CWO-IRV)</span></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li><span>Borda Count</span></li>
+          </ul>
+          <li><span>Cardinal Methods</span>
+            <ul class="close">
+              <li><span>Approval</span>
+                <ul class="close">
+                  <li><span>Pure Approval</span>
+                    <ul class="close">
+                      <li><span>Approval Voting</span></li>
+                      <li><span>Concensus Voting</span></li>
+                      <li><span>Utilitarian Voting</span></li>
+                    </ul>
+                  </li>
+                  <li><span>Disapproval Voting</span></li>
+                  <li><span>Approval with Optional Conditional</span></li>
+                  <li><span>Random Approval</span></li>
+                </ul>
+              </li>
+              <li><span>Range (Score)</span>
+                <ul class="close">
+                  <li><span>Pure Score</span></li>
+                  <li><span>STAR</span></li>
+                </ul>
+              </li>
+              <li><span>Grades</span>
+                <ul class="close">
+                  <li><span>3-2-1 Voting</span></li>
+                  <li><span>Majority Judgement</span></li>
+                  <li><span>Disapproval Voting</span></li>
+                  <li><span>Majority Choice Approval</span></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><span>Hybrid Methods</span>
+            <ul class="close">
+              <li><span>Cardinal+Ranked</span>
+                <ul class="close">
+                  <li><span>Score+Ranked</span>
+                    <ul class="close">
+                      <li><span>Score+Condorcet</span>
+                        <ul class="close">
+                          <li><span>Score/DSV</span></li>
+                          <li><span>Cardinal-Weighted Pairwise</span></li>
+                        </ul>
+                      </li>
+                      <li><span>Definite Majority Choice</span></li>
+                      <li><span>Marginal Ranked Approval Voting (MRAV)</span></li>
+                    </ul>
+                  </li>
+                  <li><span>Approval+Ranked</span>
+                    <ul class="close">
+                      <li><span>Approval+Condorcet</span>
+                        <ul class="close">
+                          <li><span>Definite Majority Choice</span></li>
+                          <li><span>Lull-Approval</span></li>
+                          <li><span>Pairwise Sorted Approval</span></li>
+                          <li><span>Approval Sorted Margins</span></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li><span>Score+Graded</span>
+                <ul class="close">
+                  <li><span>Majority Acceptable Score</span></li>
+                </ul>
+              </li>
+              <li><span>Condorcet+Borda</span>
+                <ul class="close">
+                  <li><span>Black's System</span></li>
+                </ul>
+              </li>
+              <li><span>Pairwise Sorted Borda</span></li>
+            </ul>
+          </li>
+          <li><span>Candidates Trade Votes</span>
+            <ul class="close">
+              <li><span>Asset Voting</span></li>
+              <li><span>Optional Asset</span></li>
+              <li><span>Cumulative Asset</span></li>
+            </ul>
+          </li>
+          <li><span>Lottery Methods</span>
+            <ul class="close">
+              <li><span>Random Ballot</span></li>
+              <li><span>Random Condorcet</span></li>
+            </ul>
+          </li>
+      </ul>
+      </li>
+      <li><span>Multi-Winner Methods</span>
+        <ul class="close">
+          <li><span>Single-Choice</span></li>
+          <li><span>Ranked</span>
+            <ul class="close">
+              <li><span>Single Transferrable Vote</span></li>
+            </ul>
+          </li>
+          <li><span>Cardinal</span></li>
+        </ul>
+      </li>
+  </ul>
+</body>
+
+</html>
 	
 	
 		
