@@ -67,7 +67,7 @@
 									<summary>Pure Approval Methods</summary>
 										<ul>
 											<li>Approval Voting</li>
-											<li>Consensus Voting</li>
+											<li><a href="https://electowiki.org/wiki/Consensus_voting">Consensus Voting</a></li>
 											<li>Utilitarian Voting</li>
 										</ul>
 								</details>
