@@ -146,7 +146,7 @@
 						<details>
 							<summary>Score+Graded Hybrids</summary>
 								<ul>
-									[Majority Acceptable Score](https://wiki.electorama.com/wiki/Majority_Acceptable_Score_voting)
+									<li><a href="https://electowiki.m.miraheze.org/wiki/Majority_Acceptable_Score_voting">Majority Acceptable Score Voting</a>
 								</ul>
 						</details>
 					</ul>
